@@ -1,0 +1,36 @@
+.container-pict{
+    height: 756px;
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+}
+
+.mini-cont-pict{
+    width: 1048px;
+    height: 530px;
+    position: relative;
+    
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.float-text{
+    position: absolute;
+    width: 480px;
+    height: 55px;
+    background-color: white;
+    color: black;
+    bottom: 0px;
+    font-family: Montserrat;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}

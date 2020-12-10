@@ -1,0 +1,75 @@
+.container-picg{
+    height: 756px;
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+
+.mini-cont-picg{
+    width: 1048px;
+    height: 1500px;
+    margin-bottom: 50px;
+}
+
+.img-picg{
+    
+    height: auto;
+    position: relative;
+    width: 1048px;
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.decl-picg{
+    background-color: #14274A;
+    height: 100px;
+    color: white;
+    font-family: Montserrat;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 73px;
+    letter-spacing: 0em;
+    padding-top: 25px;
+}
+
+.buy-picg{
+    height: 150px;
+    display: flex;
+    justify-content: space-around;   
+    border: 2px solid #14274A;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+}
+
+.lft-part{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.buy-icon{
+    color: #E0B973;
+    font-size: 25px;
+}
+
+.buy-view{
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-left: 15px;
+}
+
+.btn-rgth-part{
+    margin-top: 60px;
+}

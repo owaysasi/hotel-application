@@ -1,0 +1,49 @@
+.test-container{
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+}
+
+.mini-cont-test{
+    width: 798px;
+    height: 257px;
+    text-align: center;
+}
+
+.frst-test-row{
+    font-family: Adobe Garamond Pro;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+}
+
+.scnd-test-row{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.thrd-test-row{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+}
+
+.frth-test-row{
+    display: flex;
+    justify-content: center;
+}
+
+.frth-icons{
+    color: #E0B973;
+    font-size: 30px;
+}

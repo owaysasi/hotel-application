@@ -1,0 +1,87 @@
+.main-foor-cont{
+    position: relative;
+}
+
+.container-footer{
+    background-color: #14274A;
+    width: 1350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.upper-footer{
+    background-color: #ffffff;
+    width: 1350px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.mini-cont-f{
+    margin-top: 50px;
+    width: 1048px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: left;
+    
+}
+
+.traingle{
+    position: absolute;
+    color: rgb(253, 253, 253);
+    width: 0px; 
+    height: 200px; 
+    top: -145px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    z-index: 5px;
+    border-bottom: 50px solid #14274A;
+}
+
+.frst-f{
+    text-align: left;
+}
+
+.scnd-f-item{
+    margin-bottom: 10px;
+}
+
+.thrd-f-item{
+    margin-bottom: 10px;
+}
+
+.frst-do{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+}
+
+.inputbtn-con-f{
+    width: 250px;
+    height: 37px;
+}
+
+.subs-frth-f{
+    margin-bottom: 20px;
+}
+
+.input-f{
+    border-color: #E0B973;
+    background-color: #14274A;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    color: white;
+}
+
+.btn-f{
+    background-color: #E0B973;
+    border-color:  #E0B973;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}

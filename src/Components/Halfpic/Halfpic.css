@@ -1,0 +1,44 @@
+.container-half{
+    height: 405px;
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.mini-cont-half{
+    width: 1048px;
+    height: 405px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.decl-half{
+    width:300px;
+    text-align: left;
+}
+
+.borderbox{
+    border-left: 1px solid black;
+    padding-left: 10px;
+}
+
+.title-half{
+    font-family: Adobe Garamond Pro;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0.02em;
+
+}
+
+.img-half{
+    height: 405px;
+    width: 606px;
+    background-image: url("../../Pics/Hotel-header.png");
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

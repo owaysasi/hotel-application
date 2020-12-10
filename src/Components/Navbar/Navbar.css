@@ -1,0 +1,43 @@
+.container-navbar{
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+}
+
+.mini-cont-nav{
+    width: 1048px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pages{
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    color: white;
+}
+
+.navbar-item{
+    color: white;
+}
+
+.label{
+    width: 256px;
+    height: 130px;
+    background-color: #E0B973;
+    font-family: Adobe Garamond Pro;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    border-bottom-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+}
+
+.label-word{
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.label-word{
+    margin-bottom: 20px;
+}

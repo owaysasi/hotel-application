@@ -1,0 +1,110 @@
+.con-header{
+    width: 1350px;
+    height: 330px;
+    background-color: #14274A;
+    margin-bottom: 50px;
+}
+
+.title-con-header{
+    font-family: Montserrat;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 98px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+
+.title-con{
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.mini-title-con{
+    width: 1048px;
+    text-align: left;
+}
+
+.h-mini-title{
+    font-family: Adobe Garamond Pro;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.body-con{
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+
+.mini-body-con{
+    width: 1048px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.par-mini-title{
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.left-body-con{
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+
+
+}
+
+.right-body-con{
+    text-align: left;
+}
+
+.form-name{
+    margin-bottom: 15px;
+}
+
+.form-email{
+    margin-bottom: 15px;
+}
+
+.form-message{
+    margin-bottom: 15px;
+}
+
+.name-input{
+    width: 400px;
+    height: 25px;
+}
+
+.email-input{
+    width: 400px;
+    height: 25px;
+}
+
+.message-input{
+    width: 400px;
+    height: 200px;
+}
+
+.form-btn{
+    float: right;
+}
