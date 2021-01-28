@@ -9,7 +9,7 @@ import Contactus from './Pages/Contact-us/Contactus';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/hotel-application">
       <div className="App">
         <Switch>
           <Route exact path="/facilities" component={Facilities} />  

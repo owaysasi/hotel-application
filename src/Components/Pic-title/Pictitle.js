@@ -4,7 +4,7 @@ import './Pictitle.css';
 
 function Pictitle (){
     const [photos, setPhotos] = useState([]);
-    const [userId, setUserId] = useState(["sKzR6_2MWrV88X29K5mswN7s_HraPdIf3IK6yXR_iGY"]);
+    
 
     //REACT_APP_UNSPLASH_KEY
 
